@@ -1,0 +1,38 @@
+// http://jautodoc.sourceforge.net/
+
+
+/*
+ * <p>項目名稱: ${project_name} </p> 
+ * <p>文件名稱: ${file_name} </p> 
+ * <p>描述: [類型描述] </p>
+ * <p>創建時間: ${date} </p>
+ * <p>公司信息: ************公司 *********部</p> 
+ * @author <a href="mail to: *******@******.com" rel="nofollow">作者</a>
+ * @version v1.0
+ * @update [序號][日期YYYY-MM-DD] [更改人姓名][變更描述]
+ */
+
+
+
+
+/**
+ * @Title：${enclosing_method}
+ * @Description: [功能描述]
+ * @Param: ${tags}
+ * @Return: ${return_type}
+ * @author <a href="mail to: *******@******.com" rel="nofollow">作者</a>
+ * @CreateDate: ${date} ${time}</p> 
+ * @update: [序號][日期YYYY-MM-DD] [更改人姓名][變更描述]     
+ */
+getter 和 setter
+
+/**
+ * 獲取  ${bare_field_name}
+ */
+
+
+
+/**
+ * 設置   ${bare_field_name} 
+ * (${param})${field}
+ */
